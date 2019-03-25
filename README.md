@@ -9,8 +9,8 @@ Path of Exile is a free-to-play Action RPG (i.e. Diablo 2/3 etc.) that utilizes 
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
--- Random Forest
--- Deep Learning Neural Networks (Keras)
+ -- Random Forest
+ -- Deep Learning Neural Networks (Keras)
 * Data Visualization
 * Time Series Modeling
 * Forecasting with ARIMA
